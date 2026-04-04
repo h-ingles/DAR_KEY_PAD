@@ -37,6 +37,8 @@ Aside from the PCB, only the following parts are required to assemble and use th
 
 8x Cherry MX Compatible Keyswitch
 
+8x Cherry-style 1x1 keycaps
+
 4x 3.5mm aux cables, 1.5 ft. or longer
 
 4x M2 machine screws
