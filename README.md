@@ -11,7 +11,7 @@ Should this have been a PCB? No. Boredom is a hell of a thing.
 # DETAILS
 
 ## THE JACKS
-The 8BitDo Retro line of keyboards possess a unique feature. Specifically, the keyboard supports the use of 10 programmable buttons. Two buttons are integrated into the keyboard, and 8 are modular. The modular buttons are coupled up, and bound to individual 3.5mm "audio" jacks on the back of the keyboard. What makes this novel is that different devices can be attached to these ports juch as joysticks. The rest is handled in OEM software.
+The 8BitDo Retro line of keyboards possess a unique feature. Specifically, the keyboard supports the use of 10 programmable buttons, but 8 of them are modular. The modular buttons are coupled up, and bound to individual 3.5mm "audio" jacks on the back of the keyboard. What makes this novel is that different devices can be attached to these ports juch as joysticks. The rest is handled in OEM software.
 
 Annoyingly, each jack isn't indexed by number, but by letters frequently found on a standard controller. A, B, X, and Y. This gets even more confusing when the peripherals are attached.
 
@@ -26,7 +26,7 @@ Tip: B button
 
 The Super Buttons are the perfect example of a minimum viable product stuffed into a nice case (affectionately). The only components in a Super Button are cable, a switch, a carrier PCB (sometimes), and maybe a socket. All electronics to handle the button, such as pull down resistors, debouncing, and diodes are integrated into the keyboard itself. This makes the peripherals inexpensive. More importantly, this makes them easy to build yourself.
 
-Most peripherals, like the jacks, are indexed in the order A, B, X, and Y. What makes this frustrating is that the jack the peripheral is attached to is indexed in the exact same way. Meaning an owner of a fully expanded 8BitDo Retro keyboard will have situations like "Programming A on X" or "Trobleshooting B on B".
+Most peripherals, like the jacks, are labeled in the order A, and B. On some occasions X, and Y are used. What makes this frustrating is that while it's labeled the same way the jacks are indexed, how the buttons are indexed is by number. This means "B on X" would be 8, or "A on A" would be 3.
 
 On the DAR KEY PAD, the format [JACK].[INPUT] is used when labeleing the buttons to minimise confusion. Confusion will still likely occur (I'm not stupid, you're stupid!).
 
